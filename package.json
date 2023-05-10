@@ -1,6 +1,6 @@
 {
-	"name": "vscode-vba",
-	"displayName": "VBA",
+	"name": "vscode-vba-coloring-dlb",
+	"displayName": "VBA Code Coloring DLB",
 	"description": "Visual Basic for Applications and WinWrap Basic support for VS Code.",
 	"icon": "images/icon_256x256.png",
 	"version": "0.8.1",
